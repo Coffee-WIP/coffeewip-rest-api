@@ -1,0 +1,4 @@
+code/build
+.env
+.vscode
+node_modules
